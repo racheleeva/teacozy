@@ -84,3 +84,12 @@ header nav span a {
   margin: 15px 20px;
   opacity: 1;
 }
+
+.contact {
+  height: 200px;
+}
+
+footer {
+  text-align: left;
+  paddin-top: 20px;
+}
